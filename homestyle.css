@@ -1,0 +1,1521 @@
+Body{background-color:pink;font:16pt times }
+
+h1h1 {
+
+	text-shadow: 5px 10px 2px #93968f,
+	-3px 6px 5px #58d1e3;
+}
+
+
+
+
+H2{font:14pt arial;color:purple}
+H3{font:8pt arial;color;white}
+
+#para1 {
+	text-align: right;
+	color:red;
+}
+
+
+.para1 {
+
+	background-color:yellow;
+	 color: green;
+}
+
+#para2 {
+
+   font-style:italic;font-size:25;
+}
+
+#para3  {
+
+	font-variant:normal;small-cap,inherit
+}
+
+
+p.para4 {
+
+	color:blue;
+	background: lightblue;
+}
+
+#para5 {
+ color:green;background-color:rgb(115,25,60);
+padding-bottom: :75px;
+padding-top: 20px;
+padding-left: 30px;
+padding-right: 100px;
+}
+
+
+
+p.bold  {
+
+	font-weight:lighter;normal,lighter,bold, bolder----thickness of text
+
+
+
+#para2 .first em {
+
+color: orange;
+background-color: grey;
+
+}
+
+p.italic {
+
+          font-style:italic;
+
+	}
+
+.serif  {
+
+font-family: Florence;cursive;
+
+}
+
+
+p.bolder  {
+
+	font-weight: bolder;
+
+}
+
+
+p.bold    {
+
+	font-weight: bold;
+}
+
+p.example  {
+
+color: purple;
+
+}
+
+p.right    {
+
+     text-align: right;
+
+ }
+
+
+p.overline     {
+
+text-decoration: overline;
+
+}
+
+p.underline   {
+
+text-decoration: underline;
+
+}
+
+p.line-through  {
+
+
+	text-decoration: line-through;
+}
+
+td.top      {
+
+	 vertical-align: top;
+
+	}
+
+	td.middle    {
+
+      vertical-align: middle;
+
+
+   }
+
+
+
+
+td.bottom          {
+
+      vertical-align: bottom;
+
+
+}
+
+
+
+td.left      {
+
+	 horizontal-align: left;
+
+	}
+
+	td.center    {
+
+      horizontal-align: center;
+ }
+
+
+
+td.right         {
+
+      horizontal-align: right;
+
+
+}
+
+td.justify        {
+
+      horizontal-align: justify;
+
+}
+
+p.font    {
+
+	font-size: 30;
+}
+
+p    {
+
+	text-indent: 90px;
+}
+
+p.capitalize     {
+
+    text-transform: capitalize;start letter is capital of every word
+
+
+}
+
+p.uppercase      {
+	text-transform: uppercase;all letters uppercase
+}
+
+p.normal   {
+	letter-spacing: normal;
+}
+
+p.positive   {
+
+      letter-spacing: 6px;
+}
+
+p.negative   {
+
+	letter-spacing: -1.5px;
+}
+
+ p.normal    {
+
+ 	word-spacing: normal;
+ }
+
+p.px    {
+
+	word-spacing: 60px;
+}
+
+p   {
+
+	white-space: nowrap;
+
+         }
+p.pre.  {
+
+	white-space:pre;
+
+}
+
+p.preline. {
+	white-space; pre-line;
+}
+
+
+p.prewrap   {
+	white-space: pre-wrap;
+}
+
+p .class     {
+
+	text-underline-position: right;
+
+}
+
+p    {
+      padding: 10px;
+	border: 5px solid green;
+
+}
+
+p.third   {
+	padding:100px;
+	border-style: solid;
+	border-width: 2px;
+
+	}
+
+p.fourth  {
+	padding: 10px;
+	border-style: solid;
+	border-width: 5px;
+l}
+
+p.none {border-style: none;}
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge  {border-style: ridge;}
+p.inset  {border-style: inset;}
+p.outset {border-style: outset;}
+p.hidden {border-style: hidden;}
+
+div    {
+	border: 5px solid green;
+	width: 90px;
+	height: 90px
+}
+
+
+p.first  {
+	border: 5px solid green;
+	min-height: 100px;
+
+	p.second  {
+	border: 5px solid green;
+	max-width: 100px;
+
+}
+
+body  {
+	background-color: #87CEFA;
+}
+
+body  {
+	background-color: #C0C0C0;
+}
+
+h1 {
+	background-color: rgb(135,206,235);
+
+}
+p {
+	background-color: LightGreen;
+
+}
+
+body {
+	background-image:url("css_logo.png");
+	background-color: #e9e9e9;
+}
+
+p {
+	padding: 30px;
+	background-image:
+	url("green_photo.jpg");
+	color: white;
+}
+
+body {
+
+	background-image:
+	url("cs_logo.png");
+	background-repeat: repeat-x;
+}
+
+body  {
+	background-image:
+
+	url("https://dribbble.com/signup/new");
+	url("css_logo.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+body  {
+
+	background-image:
+	background-image: url("css_logo.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+
+ol.lower-alpha  {
+	list-style-type: lower-alpha;
+}
+ul.circle   {
+	list-style-type: circle;
+}
+
+ul.square  {
+	list-style-type: square;
+
+}
+
+
+ul   {
+	list-style-image: url("https://dribbble.com/signup/new");
+	list-style-position: inside;
+}
+
+ul  {
+
+	list-style:  square outside none;
+}
+would be same as the long version.
+
+ul  {
+
+	list-style-type: square;
+	list-style-position: outside;
+    list-style-image: none;
+}
+
+table   {
+	border-collapse: seperate;
+	border-spacing: 20px 40px;
+}
+
+caption  {
+	caption-side: top;
+}
+
+table    {
+	border-collapse: seperate;
+	empty-cells: hide;
+}
+
+
+TABLE LAYOUT CSS
+
+table     {
+	border-collapse: seperate;
+	width: 100%;
+	border: 1px solid gray;
+}
+
+td      {
+    border: 1px solid gray;
+}
+
+table.auto    {
+	table-layout: auto;
+}
+
+table.fixed   {
+
+	table-layout: fixed;
+}
+
+LINK STYLE
+
+a: hover     {
+	color: red;
+}
+
+a:link   {
+
+	text-decoration: none;
+
+}
+<span style="cursor:help;">
+   Do you need help?
+   </span>
+
+<span style="cursor:help;">
+    Do you need help?
+    </span>
+
+DISPLAY BLOCK
+
+ DISPLAY BLOCK
+
+span {
+	display: block;
+}
+
+ span {
+ 	display: block;
+ }
+
+ p {
+ 	display: inline;
+ }
+
+h1 {
+	display: none;
+}
+
+VISIBILITY
+
+div.hidden  {
+	visibility: hidden;
+}
+STATIC POSITIONING
+
+STATIC POSITIONING
+
+p.position_static {
+	position:static;
+	top: 30px;
+	right: 5px;
+	color: red;
+}
+
+FIXED POSITION
+
+p.position_fixed {
+	position: fixed;
+	top: 30px;
+	right: 5px;
+	color: red;
+}
+
+p.position_fixed {
+	position: fixed;
+	top: 30px;
+	right: 5px;
+	color: red;
+}
+
+RELATIVE POSITION
+
+p {
+	width: 350px;
+	border: 1px black solid;
+	position: fixed;
+}
+span {
+	background: green;
+	color: white;
+	position: relative;
+	top: 150px;
+	left: 50px;
+}
+FLOATING
+
+img {
+	float: right;
+}
+
+FLOATING ELEMENTS NXT TO EACH OTHER
+
+img  {
+
+	float: left;
+	width: 120px;
+	margin-right: 10px;
+}
+
+p  {
+	width: 120px;
+	float: left;
+}
+
+
+
+
+FLOATING
+
+img {
+	float: right;
+}
+
+FLOATING ELEMENTS NXT TO EACH OTHER
+
+img  {
+	float: right;
+	width: 120px;
+	margin: 50px;
+}
+
+
+p  {
+	width: 120px;
+	float: left;
+}
+
+CLEARING THE FLOAT
+
+.floating     {
+	float: right;
+}
+
+USING CLEAR
+
+.floating     {
+	float: right;
+}
+
+.clearing     {
+	clear:  both;
+}
+
+The OVERFLOW PROPERTY
+
+The OVERFLOW PROPERTY
+
+div {
+	width: 150px;
+	height: 150px;
+	background-color: LightBlue;
+	float: left;
+}
+
+overflow property values:
+
+div {
+	width: 150px;
+	height: 150px;
+	background-color: LightBlue;
+	float: left;
+	overflow: scroll;
+}
+the code above produces horizontal and vertical scroll bars.
+
+
+
+
+AUTO AND hIDDEN
+
+div {
+	width: 150px;
+	height: 150px;
+	background-color: LightBlue;
+	float: left;
+	overflow: hidden;
+}
+
+div {
+	width: 150px;
+	height: 150px;
+	background-color: LightBlue;
+	float: left;
+	overflow: hidden;
+}
+
+the default value for the overflow property is visible.
+
+THE Z-INDEX PROPERTY
+
+.blue     {
+
+    background color: #8EC4D0;
+    margin-bottom: 15px;
+    width: 120px;
+    height: 120px;
+    color: #FFF;
+}
+
+.red      {
+    background color: #FF4D4D;
+    position: relative;
+    margin-bottom: 15px;
+    width: 120px;
+    height: 120px;
+    color: #FFF;
+    margin-top: -50px;
+    margin-left: 50px;
+
+}
+
+ASSIGNING THE Z-INDEX PROPERTY
+
+.blue     {
+
+	z-index: 3;
+	position: relative;
+}
+
+.red    {
+
+	z-index: 2;
+	position: relative;
+}
+
+CSS VENDOR PREFIXES
+
+.round     {
+	-webkit-border-radius: 24px;
+      border-radius: 24px;
+      border: 1px solid green;
+      width: 200px;
+      padding: 25px;
+}
+
+BORDER RADIUS FOR ROUNDED CORNERS IN CSS3
+
+div     {
+	border-radius: 20px;
+	background-color: green;
+	color: white;
+	padding: 50px;
+}
+
+  CREATING A CIRCLE
+
+div     {
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	background-color: green;
+	color: white;
+}
+
+the box-shadow property
+
+div     {
+
+	width: 300px;
+	height: 100px;
+	background-color: #9ACD32;
+	box-shadow: 10px 10px #888888;
+}
+
+BLUR AND SPREAD
+
+box-shadow:10px 10px 5px 5px #888888:
+
+
+NEGATIVE VALUES
+
+box-shadow: -10px -10px 5px -5px #888888
+
+   HSL
+
+#footer
+   {
+   	border-top :1px solid rgba(0,0,0.3);
+   	background: rgba(0,0,0.25);
+   	box-shadow: inset 0 1px
+   	rgba(255,255,255,0.3);
+   	height: 40px;
+   }
+
+           THE TEXT-SHADOW PROPERTY
+
+  p {
+  	text-shadow: 25 px 15 px blue;
+  }
+
+#parent p:first-ch  {
+	color: green;
+	text-decoration: underline;
+}
+
+#parent p:last-ch {
+	color: green;
+	text-decoration: underline;
+}
+
+WORKING WITH PSEUDO ELEMENTS:
+
+p::first-line  {
+	color: #589432;
+}
+the above eg shows how to use the ::first line element
+ to add special effects to the first line of elements
+ in the document.
+
+the ::selection pseudo element styles the selected text:
+
+p::-moz-selection {
+	background: #8bc34a;
+	color: #fff;
+
+}
+
+the-moz-prefix is used as the::selection element is not
+ supported by mozilla yet
+
+}
+
+the word-wrap property
+
+p   {
+	width: 210px;
+	height: 100px
+	border:; 1px solid #000000
+	word-wrap: normal;
+}
+
+p   {
+	width: 210px;
+	height: 100px
+	border:; 1px solid #000000
+	word-wrap: break-word;
+}
+
+The @font-face rule
+
+@font-face  {
+	font-family: Delicious;
+	src: url('delicious-Roman.otf');
+}
+
+@font-face  {
+	font-family: Delicious;
+	font-weight: bold;
+	src: url('delicious-Roman.otf');
+}
+h1{
+	font-family: Delicious,sans-serif;
+}
+
+@font-face  {
+	font-family: Delicious;
+	src: url('delicious-Roman.ttf');
+	src: url('delicious-Roman.eot?#iefix');
+}
+
+creating linear gradient
+
+
+div {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background: linear-gradient(DeepSkyBlue, Black);
+}
+
+This syntax works in Mozilla (-moz). If you work with a different browser, add the corresponding prefix, so that the browser understands the gradient.
+
+COLOR STOPS
+
+div {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background: linear-gradient(blue, yellow, green, pink, white);
+}
+
+div {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background: linear-gradient(blue 20%, yellow 30%, green 85%);
+
+}
+
+Direction of gradient
+
+div.first {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background:-webkit-linear-gradient(left, blue, green, white);
+	background:-moz-linear-gradient(left, blue, green, white);
+	background:-ms-linear-gradient(left, blue, green, white);
+}
+div.second {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	background:-webkit-linear-gradient(bottom, blue, green, white);
+	background:-moz-linear-gradient(bottom, blue, green, white);
+	background:-ms-linear-gradient(bottom, blue, green, white);
+}
+    Angle of the gradient
+
+		div.first {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background: -webkit-linear-gradient(bottom left, blue, green, white);
+	background: -moz-linear-gradient(bottom left, blue, green, white);
+	background: -ms-linear-gradient(bottom left, blue, green, white);
+}
+div.second {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	background: -webkit-linear-gradient(100deg, blue, green, white);
+	background: -moz-linear-gradient(100deg, blue, green, white);
+	background: -ms-linear-gradient(100deg, blue, green, white);
+}
+
+repeating a linear-gradient
+
+div {
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 4px;
+	color: #FFF;
+	background: repeating-linear-gradient(blue, green 20px);
+}
+
+
+SETTING THE SHAPES FOR RADIAL GRADIENT
+
+div.first {
+	height: 150px;
+	width: 200px;
+	color: #FFF;
+	background: -moz-radial-gradient(green, yellow, blue);
+	background: -webkit-radial-gradient(green, yellow, blue);
+	background: -ms-radial-gradient(green, yellow, blue);
+}
+div.second {
+	height: 150px;
+	width: 200px;
+	color: #FFF;
+	background: -moz-radial-gradient(circle, green, yellow, blue);
+	background: -webkit-radial-gradient(circle, green, yellow, blue);
+	background: -ms-radial-gradient(circle, green, yellow, blue);
+}
+
+<p>RADIAL GRADIENT POSITION</p>
+
+
+div.first {
+	height: 150px;
+	width: 200px;
+	color: #FFF;
+	background: -moz-radial-gradient(top left, green, yellow, blue);
+	background: -webkit-radial-gradient(top left, green, yellow, blue);
+	background: -ms-radial-gradient(top left, green, yellow, blue);
+}
+div.second {
+	height: 150px;
+	width: 200px;
+	color: #FFF;
+	background: -moz-radial-gradient(green 5%, yellow 15%, blue 60%);
+	background: -webkit-radial-gradient(green 5%, yellow 15%, blue 60%);
+	background: -ms-radial-gradient(green 5%, yellow 15%, blue 60%);
+
+}
+
+SETTING THE COLOR STOPS
+
+div{
+	height: 150px;
+	width: 200px;
+	color: #FFF;
+	background: -moz-radial-gradient(circle, green 40%, yellow 50%, blue 70%);
+	background: -webkit-radial-gradient(circle, green 40%, yellow 50%, blue 70%);
+	background: -ms-radial-gradient(circle, green 40%, yellow 50%, blue 70%);
+}
+
+background size property
+
+div {
+	height: 150px;
+	width: 200px;
+	border: 1px solid #000;
+	background: url("http://www.sololearn.com/uploads/css_logo.png") no-repeat 50% 50%;
+	background-size: 100px 100px;
+}
+
+
+the background-clip property
+
+#first {
+	border: 2px dotted black;
+	padding: 20px;
+	background: LightBlue;
+	background-clip: padding-box;
+}
+#second {
+	border: 2px dotted black;
+	padding: 20px;
+	background: LightBlue;
+	background-clip: content-box;
+}
+
+the background clip with images
+
+div {
+	background-image: url("http://www.sololearn.com/uploads/css_logo.png");
+	background-clip: content-box;
+	border: 2px dotted black;
+	padding: 20px;
+}
+
+<<<<<<< Updated upstream
+multiple backgrounds
+
+div {
+	width: 400px;
+	height: 300px;
+	background-image: url("http://www.sololearn.com/uploads/css_logo.png"), url("http://www.sololearn.com/uploads/better-code.jpg");
+	background-position: right bottom, left top;
+	background-repeat: no-repeat;
+}
+
+multiple bg position
+
+div {
+	width: 400px;
+	height: 300px;
+	background-image: url("http://www.sololearn.com/uploads/css_logo.png"), url("http://www.sololearn.com/uploads/better-code.jpg");
+	background-position: right top, left top;
+	background-repeat: no-repeat;
+}
+
+shorthand property
+
+div {
+	background: url("http://www.sololearn.com/uploads/css_logo.png") right top no-repeat,
+	url("http://www.sololearn.com/uploads/better-code.jpg") left top no-repeat;
+	width: 400px;
+	height: 300px;
+}
+
+the opacity property
+
+#img1 {
+	opacity: 1;
+}
+#img2 {
+	opacity: 0.5;
+}
+#img3 {
+	opacity: 0.25;
+}
+
+opacity in internet explorer
+
+img {
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+
+}
+
+css transitions
+
+transition: transform 5s ease-in;
+
+the transition property
+
+div {
+	width: 50px;
+	height: 50px;
+	background: #32CD32;
+	transition: width 3s;
+	-webkit-transition: width 3s;
+}
+div:hover {
+	width: 250px;
+}
+
+If you hover over the div element, it will move from left to right.<br>
+
+When the cursor is moused out of the element, it will gradually change back to its original style.
+
+transition-timing function
+
+div {
+	width: 50px;
+	height: 50px;
+	background: #32CD32;
+	transition: width 3s;
+	transition-timing-function: cubic-bezier(0,0,1,1);
+	-webkit-transition: width 3s;
+	-webkit-transition-timing-function: cubic-bezier(0,0,1,1);
+}
+div:hover {
+	width: 250px;
+}
+
+
+If no timing function is specified, the default value is ease.
+
+transform
+
+div {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	background-color: #32CD32;
+}
+The div element before the transform will look like this:normal rectangle.
+
+Now let's apply the div element to rotate by 10deg
+div {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	background-color: #32CD32;
+	transform: rotate(10deg);
+	-webkit-transform: rotate(10deg);
+}
+
+The rotate() method rotates an element clockwise or counter-clockwise, according to a given degree.
+
+Negative value will result in a counter clockwise rotation.
+
+
+using negative values
+
+div.positive {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	background-color: #32CD32;
+	transform: rotate(10deg);
+	-webkit-transform: rotate(10deg);
+}
+div.negative {
+	width: 200px;
+	height: 100px;
+	margin-top: 30px;
+	background-color: #32CD32;
+	transform: rotate(-10deg);
+	-webkit-transform: rotate(-10deg);
+}
+
+
+transform-origin
+div.empty-div {
+	position: relative;
+	height: 100px;
+	width: 100px;
+	margin: 30px;
+	padding: 10px;
+	border: 1px solid black;
+}
+div.green-div {
+	padding: 50px;
+	position: absolute;
+	background-color: #8bc34a;
+	border: 1px solid white;
+	transform: rotate(15deg);
+	transform-origin: 25% 75%;
+	-webkit-transform: rotate(15deg);
+	-webkit-transform-origin: 25% 75%;
+}
+
+the translate()method
+
+div {
+	padding: 50px;
+	position: absolute;
+	background-color: #32CD32;
+	transform:translate(100px, 50px);
+	-webkit-transform:translate(100px, 50px);
+}
+
+the skew()method
+
+div {
+	padding: 50px;
+	position: absolute;
+	background-color: #32CD32;
+	transform: skew(30deg);
+	-webkit-transform: skew(30deg);
+}
+the scale() method
+
+div.first {
+	width: 200px;
+	height: 100px;
+	background-color: #8BC34A;
+	transform: scale(0.7, 0.7);
+	-webkit-transform: scale(0.7, 0.7);
+	color:white;
+}
+div.second {
+	margin: 60px;
+	width: 200px;
+	height: 100px;
+	background-color: #8bc34a;
+	transform: scale(1.5,1.5);
+	-webkit-transform: scale(1.5,1.5);
+	color:white;
+}
+
+multiple transforms
+
+div{
+	width: 200px;
+	height: 100px;
+	background-color: #ab4ac3;
+	transform: rotate(45deg) translate(100px);
+	-webkit-transform: rotate(45deg) translate(100px);
+	color:white;
+}
+
+css3 animations
+
+@keyframes example   {
+0% {background color: red;}
+50% {background color: yellow;}
+70% {background color: blue;}
+100% {background color: green;}
+}
+
+example is the name of the animation. You can choose any name for your animation.
+
+the @keyframe rule
+
+@keyframes rule {
+	0% {background color: red;}
+	100% {background color: green;
+	}
+
+	@keyframes rule {
+from {background color: red;}
+	to {background color: green;
+	}
+
+	colorchange is the animation name.
+
+	animation to work
+
+
+	div {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	animation-name: colorchange;
+	animation-duration: 1s;
+	-webkit-animation-name: colorchange;
+	-webkit-animation-duration: 1s;
+}
+@keyframes colorchange {
+	0% {background-color: black; }
+	50% {background-color: red; }
+	100% {background-color: blue; }
+}
+@-webkit-keyframes colorchange {
+	0% {background-color: black; }
+	50% {background-color: red; }
+	100% {background-color: blue; }
+}
+
+The animation-name property specifies the animation to be used for the element.
+The animation-duration property specifies the duration of the selected animation.
+
+
+	 If the animation-duration property is not specified, the animation will have no effect, because the default value is 0.
+
+	 the animation name property
+
+	 div {
+	animation-name: colorchange;
+	animation-duration: 5s;
+	height:100px;
+	background-color:red;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-name: colorchange;
+}
+@keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+
+The animation-duration property specifies the duration of the selected animation in seconds.
+If the animation name does not match any keyframe rule, the animation will not execute.
+
+animation properties
+
+animation-timing-function: linear;
+
+animation-delay - defines the delay before an animation starts. The CSS syntax looks like this:
+
+animation-delay: 2s;
+
+The animation-delay and animation-duration values can be defined in seconds (s) or milliseconds (ms).
+
+
+animation-iteration-count
+div {
+	animation-name: colorchange;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 5;
+	height:100px;
+	width:0px;
+	background-color:red;
+	-webkit-animation-name: colorchange;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: 5;
+}
+@keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+
+to run the animation forever
+
+div {
+	animation-name: colorchange;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: infinite;
+	height:100px;
+	width:0px;
+	background-color:red;
+	-webkit-animation-name: colorchange;
+	-webkit-animation-duration: 5s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: infinite;
+}
+@keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+
+consider the following example
+
+div {
+	animation-name: colorchange;
+	animation-duration: 3s;
+	animation-timing-function: ease-in;
+	animation-delay: 1s;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	height:100px;
+	width:0px;
+	background-color:red;
+	-webkit-animation-name: colorchange;
+	-webkit-animation-duration: 3s;
+	-webkit-animation-timing-function: ease-in;
+	-webkit-animation-delay: 1s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: reverse;
+}
+@keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+
+A single animation property can be used to achieve the same result as the above code:
+div {
+	animation: colorchange 3s ease-in 1s infinite reverse;
+	-webkit-animation: colorchange 3s ease-in 1s infinite reverse;
+	height:100px;
+	background-color:red;
+	width:0px;
+}
+@keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+@-webkit-keyframes colorchange {
+	from { width: 0px; }
+	to { width: 100px; }
+}
+
+3D transforms
+
+div.X {
+	width:250px;
+	height:100px;
+	color:white;
+	background-color:green;
+	transform: rotateX(150deg);
+	-webkit-transform: rotateX(150deg);
+}
+div.Y {
+	width:250px;
+	height:100px;
+	color:white;
+	background-color:green;
+	transform: rotateY(150deg);
+	-webkit-transform: rotateY(150deg);
+}
+div.Z {
+	width:250px;
+	height:100px;
+	color:white;
+	background-color:green;
+	transform: rotateZ(150deg);
+	-webkit-transform: rotateZ(150deg);
+}
+
+translations
+
+#mybox1 {
+	transform: translateX(29px) translateY(5em) translateZ(-13px);
+	-webkit-transform: translateX(29px) translateY(5em) translateZ(-13px);
+	width:250px;
+	height:100px;
+	color:white;
+	background-color:green;
+}
+
+translate3d()
+
+#mybox1 {
+	transform: translate3d(-20px, 4em, 10px);
+	-webkit-transform: translate3d(-20px, 4em, 10px);
+	width:250px;
+	height:100px;
+	color:white;
+	background-color:green;
+}
+perspective
+
+div.empty-div {
+	position: relative;
+	height: 200px;
+	width: 200px;
+	margin: 30px;
+	padding: 10px;
+	border: 1px solid black;
+	perspective: 100px;
+	-webkit-perspective: 100px;
+}
+div.green-div {
+	padding: 60px;
+	position: absolute;
+	background-color: #8bc34a;
+	border: 1px solid white;
+	transform: rotateX(45deg);
+	-webkit-transform: rotateX(45deg);
+
+}
+
+img {
+	width: 130px;
+	height: 100px;
+}
+.dropshadow {
+	filter: drop-shadow(5px 9px 2px blue);
+	-webkit-filter: drop-shadow(5px 9px 2px blue);
+
+}
+
+the grayscale function
+
+.filtered {
+  filter: grayscale(100%);
+}
+
+the sepia function
+
+  .filtered {
+	filter: sepia(100%);
+}
+
+the saturate function
+
+.filtered {
+  filter: saturate(50%);
+}
+Here is an example using a number value to make an image super-saturated:
+
+.filtered {
+  filter: saturate(2.5);
+}
+The saturate function also accepts values over 100%.
+
+the hue-rotation function
+
+.filtered {
+   filter: hue-rotate(180deg);
+ }
+the invert function
+
+.filtered {
+  filter: invert(70%);
+}
+
+the opacity function
+
+.filtered {
+  filter: opacity(70%);
+}
+
+the brightness function
+
+.filtered {
+  filter: brightness(50%);
+}
+
+an example of a number value to make a image brighter.
+
+.filtered {
+  filter: brightness(1.9);
+}
+
+Any negative value will make the image black.
+
+
+contrast function
+
+example of a percentage value to give a contrast
+
+.filtered {
+	filter: contrast(140%);
+}
+
+Any negative value leaves the image unchanged.
+
+the blur function
+
+.blured {
+  filter:blur(5px);
+}
+
+The parameter is specified as a CSS length, but does not accept percentage values
+
+multiple css filters
+
+ example 1 blur and hue-rotate function
+
+.filtered {
+  filter: blur(5px) hue-rotate(180deg);
+}
+
+example 2
+
+.filtered {
+  filter:  saturate(30%) drop-shadow(5px 9px 2px gray) blur(1px);
+}
+
+example 3
+
+.filtered {
+  filter:  brightness(150%) sepia(100%);
+}
+
+transparent borders with background-clip
+
+border: 20px solid rgba(0,0,0,0.3);
+
+second example
+
+border: 20px solid rgba(0,0,0,0.3);
+-moz-background-clip:haspadding-box;
+background-clip: padding-box;
+
+
+
+
+
+
+..............................................................................

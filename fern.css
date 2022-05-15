@@ -1,0 +1,36 @@
+h1  {
+height: 100px;
+width: 400px;
+text-shadow: 5px 5px pink;
+text-transform: capitalize;
+text-transform: uppercase;
+}
+p.flash  {
+    white-space: pre-wrap;
+    text-underline-position: right;
+}
+p.fourth   {
+	padding:100px;
+    margin-top: 70px;
+	border-style: solid;
+	border-width: 1px;
+    display: inline-block;
+    background-image: ("/Users/lekhaarun/Desktop/nightqueen/athens.jpeg");
+}
+
+ul  {
+
+	list-style-type: square;
+	list-style-position: inside;
+    list-style-image: url(athens.jpeg) 
+
+}
+div {
+	width: 150px;
+	height: 150px;
+	background-color: LightBlue;
+	float: left;
+	overflow: scroll;
+}
+p::first-line  {
+	color: #589432;
